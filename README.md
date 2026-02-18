@@ -19,10 +19,10 @@ El sitio cuenta con una navegación simple, diseño con una estetica moderna y v
 Los archivos más importantes del proyecto son:
 
 - **index.html**
-   Estructura principal del sitio web y todas las secciones.
+  Estructura principal del sitio web y todas las secciones.
 
 - **style.css**
-   Encargado del diseño visual, colores, tipografías, etc.
+  Encargado del diseño visual, colores, tipografías, etc.
 
 - **script.js**  
   Archivo JavaScript que agrega interactividad al sitio
@@ -42,8 +42,8 @@ Los archivos más importantes del proyecto son:
 
 **Instrucciones de uso**
 
-1. Descargar o clonar el repositorio en la computadora.
-2. Abrir el archivo **index.html** con cualquier navegador web moderno (Google Chrome, Edge, Firefox, etc.).
+1. Descargar o clonar el repositorio
+2. Abrir el archivo **index.html** con cualquier navegador
 
 
 **Estado del proyecto**
